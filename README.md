@@ -1,5 +1,5 @@
-## Olá! Eu sou a Giovana Raphaelli
-### Sou estudante de Análise e Desenvolvimento de Sistema cursando 2º Semestre 
+### Olá! Eu sou a Giovana Raphaelli
+
 <div>
   <a href="https://github.com/giovanaraphaelli">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giovanaraphaelli&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>

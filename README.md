@@ -1,5 +1,7 @@
 ### Olá! Eu sou a Giovana Raphaelli
 
+#### Sou estudante de ADS, pretendo ir atualizando aqui para acompanhar o meu desenvolvimento.
+
 ##
 
 <div>

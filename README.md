@@ -15,4 +15,5 @@
   
   <a href="https://www.linkedin.com/in/giovanaraphaelli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  https://i.picasion.com/pic91/4f52144f41a0de62b453ec4d2b1eb2e5.gif
 

@@ -1,7 +1,7 @@
-### Olá! Eu sou a Giovana Raphaelli 
+### Olá! Eu sou a Giovana Raphaelli 🖖
 <img align="right" alt="gigi" src="https://i.picasion.com/pic91/dc29713ca79230ca8c3662be2f6f3bbb.gif"> 
 
-####Sou estudante de Análise e Desenvolvimento de São Paulo, Brasil.
+####Sou estudante de Análise e Desenvolvimento e uma entusiasta em Front- end 🤩
 
 
 ##

@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Giovana Raphaelli 
-  <img align="right" alt="gigi" src="https://i.picasion.com/pic91/4f52144f41a0de62b453ec4d2b1eb2e5.gif">
+  <img align="right" alt="gigi" src="https://i.picasion.com/pic91/12808b96abb7e024264e304400947610.gif">
 
 #### Sou estudante de ADS, pretendo ir atualizando aqui para acompanhar o meu desenvolvimento.
 

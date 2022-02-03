@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovana Raphaelli 🖖
-<img align="right" alt="gigi" src="https://i.picasion.com/pic91/dc29713ca79230ca8c3662be2f6f3bbb.gif"> 
 
-#### Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedora Front- end 🤩
+
+#### Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Front- end 🤩
 
 Veja meu portifólio: https://giovanaraphaelli.vercel.app/
 

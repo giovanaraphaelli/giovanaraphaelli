@@ -3,6 +3,8 @@
 
 #### Sou estudante de Análise e Desenvolvimento de Sistemas e aspirante a Desenvolvedora Front- end 🤩
 
+Veja meu portifólio: https://giovanaraphaelli.vercel.app/
+
 
 ##
 

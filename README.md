@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovana Raphaelli 🖖
 
 
-#### Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Web 🤩
+#### Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Web :)
 
 
 

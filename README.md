@@ -1,7 +1,11 @@
 ### Olá! Eu sou a Giovana Raphaelli 🖖
 
 
-#### Sou estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedora Web :)
+#### 💻 Desenvolvedora Front-end com conhecimento em HTML5 e CSS3.
+
+#### 📚 Estudando JavaScript. 
+
+#### 🎓 Cursando Análise e Desenvolvimento de Sistemas.
 
 
 

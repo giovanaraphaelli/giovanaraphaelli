@@ -13,7 +13,7 @@
 
 
    
-   <a href="https://github.com/giovanaraphaelli" target="_blank"><img src="https://komarev.com/ghpvc/?username=giovanaraphaelli=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"></a> 
+   <a href="https://github.com/giovanaraphaelli" target="_blank"><img src="https://komarev.com/ghpvc/?username=giovanaraphaelli"></a> 
 
   
  

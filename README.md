@@ -10,6 +10,11 @@
 
 
 <a href="https://www.linkedin.com/in/giovanaraphaelli" target="_blank"><img src="https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue"></a> 
+
+
+   
+   <a href="https://github.com/giovanaraphaelli" target="_blank"><img src="https://komarev.com/ghpvc/?username=giovanaraphaelli=GitHub&label=github%20visits&color=336699&logoColor=white&style=flat-square"></a> 
+
   
  
   

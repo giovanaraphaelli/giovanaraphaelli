@@ -2,7 +2,7 @@
 
 <div align="left">
  
-#### 💻 Desenvolvedora Front-end com conhecimento em HTML5 e CSS3.
+#### 💻 Desenvolvedora Front-end com conhecimento em HTML5, CSS3 e Javascript.
 
 #### 📚 Estudando JavaScript. 
 

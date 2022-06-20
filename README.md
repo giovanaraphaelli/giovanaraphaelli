@@ -4,9 +4,12 @@
  
 #### 💻 Desenvolvedora Front-end com conhecimento em HTML5, CSS3 e Javascript.
 
-#### 📚 Estudando JavaScript. 
+#### 👩🏻‍💻 Estudando: HTML5, CSS3 e JavaScript. 
 
-#### 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+#### 🎓 Cursando: Análise e Desenvolvimento de Sistemas.
+ 
+ #### 🎨 Ferramentas: Visual Studio Code, GitHub.
+ 
  </div>
  
 <div align="left">

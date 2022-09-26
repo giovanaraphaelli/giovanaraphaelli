@@ -7,7 +7,7 @@
  
 - 🌱 Aprendendo mais sobre **React**
  
-- 💼 Trabalhando como **Desenvolvedora Web Trainee**
+- 💼 Trabalhando como **Desenvolvedora Front-End**
  
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
   

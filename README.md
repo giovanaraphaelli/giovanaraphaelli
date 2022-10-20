@@ -1,6 +1,7 @@
 ## Olá! Me chamo Giovana Raphaelli [![GitHub SEU NOME]( https://img.shields.io/github/followers/giovanaraphaelli?label=follow&style=social)](https://github.com/giovanaraphaelli)
 
 <div align="left">  
+
 - 👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento **Front-End**
  
 - 🌱 Aprendendo mais sobre **React**

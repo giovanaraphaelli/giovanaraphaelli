@@ -4,7 +4,7 @@
 
 - 👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento **Front-End**
  
-- 🌱 Aprendendo mais sobre **React**
+- 🌱 Aprendendo mais sobre **React e Typescript**
  
 - 💼 Trabalhando como **Desenvolvedora Front-End**
  

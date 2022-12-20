@@ -1,7 +1,7 @@
 ## Olá! Me chamo Giovana Raphaelli [![GitHub SEU NOME]( https://img.shields.io/github/followers/giovanaraphaelli?label=follow&style=social)](https://github.com/giovanaraphaelli)
 
 <div align="left"> 
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=giovanaraphaelli" height="150" alt="languages graph"  />
+<!--  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&username=giovanaraphaelli" height="150" alt="languages graph"  /> -->
  
 - 👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento **Front-End**
  

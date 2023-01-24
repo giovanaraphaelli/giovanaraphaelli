@@ -3,13 +3,13 @@
 
 <div align="left"> 
  
-- 👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento **Front-End**
+👩🏻‍💻 Buscando ampliar meus conhecimentos em desenvolvimento **Front-End**
  
-- 🌱 Aprendendo mais sobre **React e Typescript**
+🌱 Aprendendo mais sobre **React e Typescript**
  
-- 💼 Trabalhando como **Desenvolvedora Front-End**
+💼 Trabalhando como **Desenvolvedora Front-End**
  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
   
  </div>
  

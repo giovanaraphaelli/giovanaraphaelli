@@ -9,7 +9,7 @@
  
 💼 Trabalhando como **Desenvolvedora Front-End**
  
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** 
+🎓 Formada em **Análise e Desenvolvimento de Sistemas** 
   
  </div>
  

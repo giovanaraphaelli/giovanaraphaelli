@@ -1,4 +1,4 @@
-## Olá! Me chamo Giovana Raphaelli [![GitHub SEU NOME]( https://img.shields.io/github/followers/giovanaraphaelli?label=follow&style=social)](https://github.com/giovanaraphaelli)
+## Olá! Me chamo Giovana Raphaelli [![giovanaraphaelli]( https://img.shields.io/github/followers/giovanaraphaelli?label=follow&style=social)](https://github.com/giovanaraphaelli)
 
 
 <div align="left"> 

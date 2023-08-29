@@ -34,10 +34,5 @@
 👔 [linkedin](https://www.linkedin.com/in/giovanaraphaelli/)
 
 
-  
-
-###
- ![Snake animation](https://github.com/giovanaraphaelli/giovanaraphaelli/blob/output/github-contribution-grid-snake.svg)
-
-###
+ 
 

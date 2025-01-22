@@ -28,7 +28,7 @@
  
  ### 🌎 Onde me encontrar
  
-🏡 [portfolio](https://giovanaraphaelli.vercel.app/) **|** 
+🏡 [portfolio](https://giovanaraphaelli.tech/) **|** 
 ✉️ [e-mail](mailto:giovanaraphaelli@outlook.com) **|** 
 👔 [linkedin](https://www.linkedin.com/in/giovanaraphaelli/)
 
